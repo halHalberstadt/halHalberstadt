@@ -6,6 +6,7 @@ My main educational foucuses have been on back-end development, front-end develo
 
 How to reach me:
 1. LinkedIn: www.linkedin.com/in/sterling-halberstadt-7067b2220
+2. My personal Website: https://www.halhalberstadt.com/
 
 <!---
 halHalberstadt/halHalberstadt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
